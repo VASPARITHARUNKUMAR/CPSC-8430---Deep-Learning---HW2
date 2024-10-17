@@ -1,0 +1,1 @@
+python test_func.py $'/home/tvaspar/DL_HW2/MLDS_hw2_1_data/testing_data/feat' $'test_data.txt'
